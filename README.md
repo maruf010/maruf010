@@ -1,4 +1,7 @@
-<h1 align="center">Hi 👋, I'm Maruf</h1>
+[<img src="https://raw.githubusercontent.com/Raymo111/Raymo111/master/intro.gif" alt="👋 Hi there! I'm (Maruf(111|nd Li)|https://raymond.li)" title="👋 Hi there! I'm (Maruf(111|nd Li)|https://raymond.li)"/>](https://raymond.li/)
+
+![visitors](https://vbr.nathanchung.dev/badge?page_id=Raymo111.Raymo111&color=00cf00)
+
 
 ## 🌐 Socials:
 [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/maruf.h.bijoy) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/itz.maruf.13) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/mh-bijoy-13847702) [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/maruf010MD) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:mhbijoy013@gmail.com) 
