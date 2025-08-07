@@ -4,7 +4,7 @@
 
 Hi, I'm Md. Maruf Hossain, a frontend developer in HTML, CSS, Tailwind, JavaScript, React and Authentication with Firebase and Backend some tools like node.js, express.js also MongoDB in Database. I've led projects like a Education Management Application focusing on scalable solutions and dynamic web applications.
 
-## 🌐 Socials:
+## 🌐 Socials Connect with me:
 [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/maruf.h.bijoy) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/itz.maruf.13) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/mh-bijoy-13847702) [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/maruf010MD) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:mhbijoy013@gmail.com) 
 
 # 💻 Tech Stack:
