@@ -1,4 +1,4 @@
-[<img src="https://raw.githubusercontent.com/Maruf010/Maruf010/master/intro.gif" alt="👋 Hi there! I'm (Ma(|ruf)|https://www.github.com/maruf010/)" title="👋 Hi there! I'm (Mar(u|f)|https:www.github.com/maruf010/)"/>](https://wwww.github.com/maruf010/)
+<h1 align="center">Hi 👋, I'm Maruf</h1>
 
 
 ## 🌐 Socials:
