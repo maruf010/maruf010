@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Maruf</h1>
+![banner](https://github.com/maruf010/maruf010/blob/main/banner%20(2).png)
 
 ## About Me 💡
 
