@@ -17,10 +17,24 @@ Hi, I'm Md. Maruf Hossain, a Full-Stack Web Developer in JavaScript, React, Next
 ### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
-### 🔝 Top Contributed Repo
-![](https://github-contributor-stats.vercel.app/api?username=maruf010&limit=5&theme=react&combine_all_yearly_contributions=true)
+---
+
+# 🔥 GitHub Streak
+
+<div align="center">
+
+<img src="https://github-readme-streak-stats.herokuapp.com?user=maruf010&theme=tokyonight&hide_border=true"/>
+
+</div>
 
 ---
-[![](https://visitcount.itsvg.in/api?id=maruf010&icon=0&color=0)](https://visitcount.itsvg.in)
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+# 📈 Activity Graph
+
+<div align="center">
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=maruf010&theme=tokyo-night&hide_border=true"/>
+
+</div>
+
+---
